@@ -1,7 +1,7 @@
 # Cam's Portfolio
 
 [Covid-19 Tweets Sentiment Classification](https://www.kaggle.com/campudney/covid-19-tweets-eda-classification-bert/)
-+ ### Tested multiple models and NLP techniques to compare classification accuracy of tweets with ‘covid19’ hashtag
++ <sub> Tested multiple models and NLP techniques to compare classification accuracy of tweets with ‘covid19’ hashtag </sub>
 + Models included Support Vector Machine, Logistic Regression, Naive Bayes, Random Forest Classifier, BERT
 + Utilized NLP techniques such as Term Frequency Inverse Document Frequency, Stemming, and Lemmatization
 + Combinations of models and techniques compared using accuracies generated from 10-fold cross validation
