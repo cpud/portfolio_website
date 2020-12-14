@@ -9,3 +9,10 @@
 + BERT trained on the tweets boasted an 85% accuracy on testing data after minimal  hyperparameter tuning
 
 ![](images/covid.png)
+
+[Rock Climbing Routes In The US](https://www.kaggle.com/campudney/rock-climbing-routes-in-the-us)
++ Created visualizations of rock climbing routes using data scraped from MountainProject with BeautifulSoup4
++ Plotly choropleth map displays number of climbing areas and amounts of different types of climbing by state
++ Animated choropleth map allows user to select type of climbing to be displayed
++ California and Colorado have the most routes, but Massachusetts and Wisconsin have more than expected
+[All code for scraping found here](https://github.com/cpud/climb-plotly/blob/master/final2.ipynb¶)
