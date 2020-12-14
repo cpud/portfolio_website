@@ -7,3 +7,5 @@
 + Combinations of models and techniques compared using accuracies generated from 10-fold cross validation
 + Support Vector Machine using Term Frequency Inverse Document Frequency was the best ‘traditional’ model and yielded an 80% percent accuracy on training data and 79% accuracy on testing data
 + BERT trained on the tweets boasted an 85% accuracy on testing data after minimal  hyperparameter tuning
+
+![](images/covid.png)
