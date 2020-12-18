@@ -15,7 +15,8 @@
 + Plotly choropleth map displays number of climbing areas and amounts of different types of climbing by state
 + Animated choropleth map allows user to select type of climbing to be displayed
 + California and Colorado have the most routes, but Massachusetts and Wisconsin have more than expected
-+ [All code for scraping found here](https://github.com/cpud/climb-plotly/blob/master/final2.ipynb¶)
++ [Final visualizations found here:](https://github.com/cpud/climb-plotly/blob/master/final2.ipynb)
++ [All code for scraping found here](https://www.kaggle.com/campudney/rock-climbing-routes-in-the-us)
 
 
 ![](images/climbing.png)
