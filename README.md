@@ -1,4 +1,12 @@
 # Cam's Portfolio
+[Mask Detection: Simple CNN vs Xception](https://www.kaggle.com/campudney/mask-detection-simple-cnn-vs-xception/)
++ Trained a convolutional neural net on a set of 12k images of people either wearing or not wearing a mask
++ Compared performance of a simple convolutional network  versus  a model using Xception’s ImageNet weights
++ Performed data augmentation in real-time using Tensorflow’s ImageDataGenerators to reduce overfitting
++ After 30 epochs of training with an Adam optimizer and binary cross entropy loss, the CNN outperformed Xception
++ Final model scores a 98% training accuracy, 99% validation accuracy, and a 98% test accuracy
+
+![](images/maskimg.png)
 
 [Covid-19 Tweets Sentiment Classification](https://www.kaggle.com/campudney/covid-19-tweets-eda-classification-bert/)
 + Tested multiple models and NLP techniques to compare classification accuracy of tweets with ‘covid19’ hashtag
