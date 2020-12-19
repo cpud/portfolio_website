@@ -6,7 +6,7 @@
 + After 30 epochs of training with an Adam optimizer and binary cross entropy loss, the CNN outperformed Xception
 + Final model scores a 98% training accuracy, 99% validation accuracy, and a 98% test accuracy
 
-![](images/maskimg.png)
+![](images/maskimg.PNG)
 
 [Covid-19 Tweets Sentiment Classification](https://www.kaggle.com/campudney/covid-19-tweets-eda-classification-bert/)
 + Tested multiple models and NLP techniques to compare classification accuracy of tweets with ‘covid19’ hashtag
