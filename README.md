@@ -5,6 +5,8 @@
 + Created interactive dashboard using Plotly and Dash for visualizations, deployed to Heroku. [Dashboard](https://seafoam-guitar.herokuapp.com/dashboard/)
 + Quarantine hasn’t had much of an effect on American music taste, but acoustic songs may be gaining popularity
 
+![](images/Screenshot from 2021-02-18 18-43-17.png)
+
 
 [Mask Detection: Simple CNN vs Xception](https://www.kaggle.com/campudney/mask-detection-simple-cnn-vs-xception/)
 + Trained a convolutional neural net on a set of 12k images of people either wearing or not wearing a mask
