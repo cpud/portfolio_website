@@ -1,4 +1,11 @@
 # Cam's Portfolio
+[Has Quarantine Changed America's Taste In Music?](https://cameron-pudney.medium.com/has-quarantine-changed-americas-taste-in-music-b622e94a1f5d)
++ Gathered data from Spotify using spotipy and Selenium to download popularity charts from SpotifyCharts
++ Compared audio features from top songs of the past few years to see if quarantine affected American music taste
++ Created interactive dashboard using Plotly and Dash for visualizations, deployed to Heroku. [Dashboard](https://seafoam-guitar.herokuapp.com/dashboard/)
++ Quarantine hasn’t had much of an effect on American music taste, but acoustic songs may be gaining popularity
+
+
 [Mask Detection: Simple CNN vs Xception](https://www.kaggle.com/campudney/mask-detection-simple-cnn-vs-xception/)
 + Trained a convolutional neural net on a set of 12k images of people either wearing or not wearing a mask
 + Compared performance of a simple convolutional network  versus  a model using Xception’s ImageNet weights
