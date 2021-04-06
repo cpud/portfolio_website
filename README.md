@@ -1,4 +1,12 @@
 # Cam's Portfolio
+[YouTube Rabbit Hole Visualization](https://andamovie.herokuapp.com/dashboard/)
++ Created an interactive Plotly Dash visualization in Flask  where users enter a link to a YouTube video and a Kamada-Kawai layout graph is generated to picture a + possible “rabbit hole” a YouTube viewer could enter
++ Each node in the Kamada-Kawai graph contains relevant information about each potential video
++ Next selected video is the most “polarizing”, the video with the highest absolute value of polarity for the title
++ Dashboard also has means and standard deviations of Views, Likes, Length for videos, deployed to Heroku
+
+![](images/yt-viz.png)
+
 [Has Quarantine Changed America's Taste In Music?](https://cameron-pudney.medium.com/has-quarantine-changed-americas-taste-in-music-b622e94a1f5d)
 + Gathered data from Spotify using spotipy and Selenium to download popularity charts from SpotifyCharts
 + Compared audio features from top songs of the past few years to see if quarantine affected American music taste
