@@ -1,8 +1,7 @@
 # Cam's Portfolio
 [YouTube Rabbit Hole Visualization](https://andamovie.herokuapp.com/dashboard/)
 + Created an interactive Plotly Dash visualization in Flask  where users enter a link to a YouTube video and a Kamada-Kawai layout graph is generated to picture a  possible “rabbit hole” a YouTube viewer could enter
-+ Each node in the Kamada-Kawai graph contains relevant information about each potential video
-+ Next selected video is the most “polarizing”, the video with the highest absolute value of polarity for the title
++ Graph nodes display information about each video such as title polarity, views, likes, length, channel
 + Dashboard also has means and standard deviations of Views, Likes, Length for videos, deployed to Heroku
 
 ![](images/youtube_viz.png)
@@ -25,7 +24,7 @@
 
 ![](images/maskimg.PNG)
 
-[Covid-19 Tweets Sentiment Classification](https://www.kaggle.com/campudney/covid-19-tweets-eda-classification-bert/)
+[Covid-19 Tweets Sentiment Classification](https://cameron-pudney.medium.com/covid-19-tweets-sentiment-classification-f975b6f4a81c)
 + Tested multiple models and NLP techniques to compare classification accuracy of tweets with ‘covid19’ hashtag
 + Models included Support Vector Machine, Logistic Regression, Naive Bayes, Random Forest Classifier, BERT
 + Utilized NLP techniques such as Term Frequency Inverse Document Frequency, Stemming, and Lemmatization
