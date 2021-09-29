@@ -5,7 +5,7 @@
 + Compared the ability of each show to keep viewers on their respective official channels for longest amount of time
 + The Office outperformed the other three shows in all explored metrics, with 30 Rock being second best
 
-![](office_rec_comm_rock.png)
+![](images/office_rec_comm_rock.png)
 
 [YouTube Rabbit Hole Visualization](https://andamovie.herokuapp.com/dashboard/)
 + Created an interactive Plotly Dash visualization in Flask  where users enter a link to a YouTube video and a Kamada-Kawai layout graph is generated to picture a  possible “rabbit hole” a YouTube viewer could enter
