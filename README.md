@@ -1,4 +1,12 @@
 # Cam's Portfolio
+[The YouTube Presence of The Office, Parks & Rec, Community, and 30 Rock](https://articleviz.herokuapp.com/dashboard/)
++ Scraped data from YouTube using Selenium to simulate how users might click through different video options
++ Fed the scraped data into YouTube API in order to gather information about Views, Comments, Likes, Dislikes
++ Compared the ability of each show to keep viewers on their respective official channels for longest amount of time
++ The Office outperformed the other three shows in all explored metrics, with 30 Rock being second best
+
+
+
 [YouTube Rabbit Hole Visualization](https://andamovie.herokuapp.com/dashboard/)
 + Created an interactive Plotly Dash visualization in Flask  where users enter a link to a YouTube video and a Kamada-Kawai layout graph is generated to picture a  possible “rabbit hole” a YouTube viewer could enter
 + Graph nodes display information about each video such as title polarity, views, likes, length, channel
