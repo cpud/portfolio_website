@@ -7,6 +7,13 @@
 
 ![](images/office_rec_comm_rock.png)
 
+[A Better YouTube Rabbit Hole Visualization](https://betterviz.herokuapp.com/dashboard/)
++ The Tree plot has significanly more nodes, but users can't enter a link, only select a show from 5 options
++ Static data is used to produce charts on interactive dashboard instead of dynamic, but there's far more data due to lack of API restrictions
++ Improved layout of charts and data table enhances visual experience
+
+![](images/better_viz.png)
+
 [YouTube Rabbit Hole Visualization](https://andamovie.herokuapp.com/dashboard/)
 + Created an interactive Plotly Dash visualization in Flask  where users enter a link to a YouTube video and a Kamada-Kawai layout graph is generated to picture a  possible “rabbit hole” a YouTube viewer could enter
 + Graph nodes display information about each video such as title polarity, views, likes, length, channel
@@ -21,7 +28,6 @@
 + Quarantine hasn’t had much of an effect on American music taste, but acoustic songs may be gaining popularity
 
 ![](images/dashboard.png)
-
 
 [Mask Detection: Simple CNN vs Xception](https://www.kaggle.com/campudney/mask-detection-simple-cnn-vs-xception/)
 + Trained a convolutional neural net on a set of 12k images of people either wearing or not wearing a mask
