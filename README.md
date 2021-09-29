@@ -1,5 +1,5 @@
 # Cam's Portfolio
-[The YouTube Presence of The Office, Parks & Rec, Community, and 30 Rock](https://articleviz.herokuapp.com/dashboard/)
+[The YouTube Presence of The Office, Parks & Rec, Community, and 30 Rock](https://cameron-pudney.medium.com/the-youtube-presence-of-the-office-parks-rec-community-and-30-rock-7003bca79b8d)
 + Scraped data from YouTube using Selenium to simulate how users might click through different video options
 + Fed the scraped data into YouTube API in order to gather information about Views, Comments, Likes, Dislikes
 + Compared the ability of each show to keep viewers on their respective official channels for longest amount of time
